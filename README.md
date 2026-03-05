@@ -2,6 +2,10 @@
 
 Whiskey knowledge API client for developers — search whiskey types, distilleries, and terminology from [WhiskeyFYI](https://whiskeyfyi.com).
 
+<p align="center">
+  <img src="demo.gif" alt="whiskeyfyi demo — whiskey API search and lookup" width="800">
+</p>
+
 ## Install
 
 ```bash
