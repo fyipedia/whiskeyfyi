@@ -73,6 +73,8 @@ Whiskey classification is governed by legal definitions that vary by country. Ea
 | Japanese Whisky | Japan | Scotch-influenced, single malt and blended styles |
 | Canadian | Canada | 3+ years aging, often rye-forward blends, allows flavoring |
 
+Learn more: [Browse Whiskey Types](https://whiskeyfyi.com/type/) · [Whiskey Encyclopedia](https://whiskeyfyi.com/whiskey/)
+
 ### Cask Types and Maturation
 
 Maturation accounts for an estimated 60-80% of a whiskey's final flavor. The cask type, previous contents, size, and number of uses all shape the spirit's character:
@@ -90,6 +92,8 @@ Maturation accounts for an estimated 60-80% of a whiskey's final flavor. The cas
 
 First-fill casks impart the most flavor, with each subsequent use ("refill") contributing progressively less. Cask strength bottlings (typically 55-65% ABV) are not diluted after maturation, preserving the full intensity of the spirit.
 
+Learn more: [Cask Types Guide](https://whiskeyfyi.com/cask/) · [Whiskey Glossary](https://whiskeyfyi.com/glossary/)
+
 ### Whiskey Regions
 
 Each whiskey-producing region has distinctive characteristics shaped by climate, water sources, grain availability, and local traditions:
@@ -105,6 +109,8 @@ Each whiskey-producing region has distinctive characteristics shaped by climate,
 | Cooley/Midleton | Ireland | Pot still tradition, smooth, triple distilled |
 | Yamazaki/Hakushu | Japan | Precision crafting, varied yeast strains, multiple still types |
 
+Learn more: [Explore 13 Whiskey Regions](https://whiskeyfyi.com/region/) · [Country Profiles](https://whiskeyfyi.com/country/)
+
 ### Key Whiskey Terms
 
 | Term | Definition |
@@ -116,6 +122,8 @@ Each whiskey-producing region has distinctive characteristics shaped by climate,
 | Angel's Share | Portion lost to evaporation during aging (1-2% per year) |
 | Non-Chill Filtered | Skips cold filtration, retains oils and texture |
 | Phenol (PPM) | Parts per million, measures peat smoke intensity |
+
+Learn more: [Flavor Profiles](https://whiskeyfyi.com/flavor/) · [Whiskey Guides](https://whiskeyfyi.com/guide/)
 
 ## API Endpoints
 
