@@ -1,6 +1,6 @@
 # whiskeyfyi
 
-[![PyPI](https://img.shields.io/pypi/v/whiskeyfyi)](https://pypi.org/project/whiskeyfyi/)
+[![PyPI version](https://agentgif.com/badge/pypi/whiskeyfyi/version.svg)](https://pypi.org/project/whiskeyfyi/)
 [![Python](https://img.shields.io/pypi/pyversions/whiskeyfyi)](https://pypi.org/project/whiskeyfyi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
