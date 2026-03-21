@@ -6,9 +6,7 @@
 
 Whiskey knowledge API client for Python. Search 80 whiskey expressions, distilleries across 7 countries and 13 regions, and whiskey terminology from [WhiskeyFYI](https://whiskeyfyi.com) -- the comprehensive whiskey reference with 150 expert guides covering single malts, bourbons, cask types, and tasting methodology.
 
-> **Explore whiskey at [whiskeyfyi.com](https://whiskeyfyi.com)** -- [Whiskey Directory](https://whiskeyfyi.com/whiskeys/) | [Distilleries](https://whiskeyfyi.com/distilleries/) | [Regions](https://whiskeyfyi.com/regions/) | [Whiskey Guides](https://whiskeyfyi.com/guides/)
-
-<p align="center">
+> **Explore whiskey at [whiskeyfyi.com](https://whiskeyfyi.com)** -- | [Distilleries](https://whiskeyfyi.com/distilleries/) | [Regions](https://whiskeyfyi.com/regions/) | <p align="center">
   <img src="https://raw.githubusercontent.com/fyipedia/whiskeyfyi/main/demo.gif" alt="whiskeyfyi demo -- whiskey API search and lookup" width="800">
 </p>
 
@@ -72,9 +70,7 @@ Whiskey classification is governed by legal definitions that vary by country. Ea
 | Japanese Whisky | Japan | Scotch-influenced, single malt and blended styles |
 | Canadian | Canada | 3+ years aging, often rye-forward blends, allows flavoring |
 
-Learn more: [Browse Whiskey Types](https://whiskeyfyi.com/type/) · [Whiskey Encyclopedia](https://whiskeyfyi.com/whiskey/)
-
-### Cask Types and Maturation
+Learn more: [Browse Whiskey Types](https://whiskeyfyi.com/types/) · ### Cask Types and Maturation
 
 Maturation accounts for an estimated 60-80% of a whiskey's final flavor. The cask type, previous contents, size, and number of uses all shape the spirit's character:
 
@@ -91,7 +87,7 @@ Maturation accounts for an estimated 60-80% of a whiskey's final flavor. The cas
 
 First-fill casks impart the most flavor, with each subsequent use ("refill") contributing progressively less. Cask strength bottlings (typically 55-65% ABV) are not diluted after maturation, preserving the full intensity of the spirit.
 
-Learn more: [Cask Types Guide](https://whiskeyfyi.com/cask/) · [Whiskey Glossary](https://whiskeyfyi.com/glossary/)
+Learn more: [Cask Types Guide](https://whiskeyfyi.com/casks/) · [Whiskey Glossary](https://whiskeyfyi.com/glossary/)
 
 ### Whiskey Regions
 
@@ -108,9 +104,7 @@ Each whiskey-producing region has distinctive characteristics shaped by climate,
 | Cooley/Midleton | Ireland | Pot still tradition, smooth, triple distilled |
 | Yamazaki/Hakushu | Japan | Precision crafting, varied yeast strains, multiple still types |
 
-Learn more: [Explore 13 Whiskey Regions](https://whiskeyfyi.com/region/) · [Country Profiles](https://whiskeyfyi.com/country/)
-
-### Key Whiskey Terms
+Learn more: [Explore 13 Whiskey Regions](https://whiskeyfyi.com/regions/) · ### Key Whiskey Terms
 
 | Term | Definition |
 |------|-----------|
@@ -122,7 +116,7 @@ Learn more: [Explore 13 Whiskey Regions](https://whiskeyfyi.com/region/) · [Cou
 | Non-Chill Filtered | Skips cold filtration, retains oils and texture |
 | Phenol (PPM) | Parts per million, measures peat smoke intensity |
 
-Learn more: [Flavor Profiles](https://whiskeyfyi.com/flavor/) · [Whiskey Guides](https://whiskeyfyi.com/guide/)
+Learn more: [Whiskey Guides](https://whiskeyfyi.com/guide/)
 
 ## API Endpoints
 
@@ -148,7 +142,7 @@ All endpoints are free, require no authentication, and return JSON with CORS ena
 ### Example
 
 ```bash
-curl -s "https://whiskeyfyi.com/api/v1/whiskeys/lagavulin-16/"
+curl -s ""
 ```
 
 ```json
@@ -167,12 +161,12 @@ curl -s "https://whiskeyfyi.com/api/v1/whiskeys/lagavulin-16/"
     "palate": ["rich smoke", "malt sweetness", "sherry", "oak"],
     "finish": ["long", "smoky", "warming", "dry"]
   },
-  "url": "https://whiskeyfyi.com/whiskeys/lagavulin-16/"
+  "url": "lagavulin-16/"
 }
 ```
 
 Full API documentation: [whiskeyfyi.com/developers/](https://whiskeyfyi.com/developers/).
-OpenAPI 3.1.0 spec: [whiskeyfyi.com/api/v1/openapi.json](https://whiskeyfyi.com/api/v1/openapi.json).
+OpenAPI 3.1.0 spec: .
 
 ## Command-Line Interface
 
@@ -235,13 +229,9 @@ with WhiskeyFYI() as api:
 
 ## Learn More About Whiskey
 
-- **Reference**: [Whiskey Directory](https://whiskeyfyi.com/whiskeys/) | [Distilleries](https://whiskeyfyi.com/distilleries/) | [Regions](https://whiskeyfyi.com/regions/)
+- **Reference**: | [Distilleries](https://whiskeyfyi.com/distilleries/) | [Regions](https://whiskeyfyi.com/regions/)
 - **Glossary**: [Whiskey Terminology](https://whiskeyfyi.com/glossary/)
-- **Guides**: [Whiskey Guides](https://whiskeyfyi.com/guides/)
-- **Compare**: [Whiskey Comparisons](https://whiskeyfyi.com/compare/)
-- **API**: [Developer Docs](https://whiskeyfyi.com/developers/) | [OpenAPI Spec](https://whiskeyfyi.com/api/v1/openapi.json)
-
-## Beverage FYI Family
+- **Guides**: - **Compare**: - **API**: [Developer Docs](https://whiskeyfyi.com/developers/) | ## Beverage FYI Family
 
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem -- world beverages from cocktails to sake.
 
