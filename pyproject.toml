@@ -1,6 +1,6 @@
 [project]
 name = "whiskeyfyi"
-version = "0.1.3"
+version = "0.1.4"
 description = "Whiskey knowledge API client — search whiskey types, distilleries, and terms from WhiskeyFYI."
 readme = "README.md"
 license = "MIT"
