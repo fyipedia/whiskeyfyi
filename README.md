@@ -256,6 +256,15 @@ Embed [WhiskeyFYI](https://whiskeyfyi.com) widgets on any website with [whiskeyf
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.whiskeyfyi.com)
 
+## Recently Updated (v0.1.5)
+
+Latest content state on [https://whiskeyfyi.com](https://whiskeyfyi.com):
+- [Homepage](https://whiskeyfyi.com)
+- [Developer documentation](https://whiskeyfyi.com/developers/)
+- [Sitemap (full content index)](https://whiskeyfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
